@@ -12,7 +12,38 @@ This project monitors a small parking lot with a capacity of up to 8 vehicles (u
 Only authorized vehicles are allowed to enter. Unauthorized access attempts are also recorded in the database.
 
 ---
-![image](https://github.com/user-attachments/assets/540cfc85-ce9b-4f23-8258-bd6fb37a20d0)
+## Program showcase
+
+- Car enters the parking lot
+  
+![image](https://github.com/user-attachments/assets/53ca9a4b-a756-4e9a-b3c8-aa5451f93483)
+
+![image](https://github.com/user-attachments/assets/dcf310de-9fd9-4a6c-99e2-d26a9195924d)
+
+- Car takes a spot
+  
+![image](https://github.com/user-attachments/assets/a58bf6ac-3a22-4832-a7b6-22111bbd7cec)
+
+![image](https://github.com/user-attachments/assets/dd4966fe-6c36-448f-ade6-6dc46412c1b3)
+
+- Unsuccessful entry attempt
+  
+![image](https://github.com/user-attachments/assets/ca792f90-9895-420a-9cee-fbb0883fa5ef)
+
+![image](https://github.com/user-attachments/assets/ea32b44a-1d4a-4de7-845d-d64172f59e54)
+
+- Collision
+
+![image](https://github.com/user-attachments/assets/632dbb6d-ab1e-4d9b-ac4b-5b1b9ba232ce)
+
+![image](https://github.com/user-attachments/assets/700837de-d722-4518-ba1b-fb61d604c921)
+
+
+- Car leaves the parking lot
+
+![image](https://github.com/user-attachments/assets/4020535b-76cf-4e00-a371-e69543e84a02)
+
+![image](https://github.com/user-attachments/assets/ab12c186-0609-42bc-96fb-bed92edcb187)
 
 
 ---
