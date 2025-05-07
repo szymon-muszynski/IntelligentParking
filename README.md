@@ -12,7 +12,10 @@ This project monitors a small parking lot with a capacity of up to 8 vehicles (u
 Only authorized vehicles are allowed to enter. Unauthorized access attempts are also recorded in the database.
 
 ---
+![image](https://github.com/user-attachments/assets/540cfc85-ce9b-4f23-8258-bd6fb37a20d0)
 
+
+---
 ## 🧰 Technologies Used
 
 - **Language**: Python
